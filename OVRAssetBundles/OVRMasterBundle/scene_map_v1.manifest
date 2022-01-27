@@ -1,0 +1,82 @@
+ManifestFileVersion: 0
+CRC: 1717554880
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d50323a4a29dd7d0f0477b7624e1e965
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2863d2891c8ab93f74f4d690d2fa2b4a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2483b9bd782f9449a5972b61b7d51a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a2a9c34df4095f47b9ca8f975175f5b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5e16f44bfbdec8441a341881923df947, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RPG_FPS_game_assets_industrial/Map_v1.unity
+Dependencies:
+- C:/Users/pauld/Documents/GitHub/GGJ2022/GGJ2022/OVRAssetBundles/OVRMasterBundle/asset_exr0
+- C:/Users/pauld/Documents/GitHub/GGJ2022/GGJ2022/OVRAssetBundles/OVRMasterBundle/asset_lighting0
+- C:/Users/pauld/Documents/GitHub/GGJ2022/GGJ2022/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/pauld/Documents/GitHub/GGJ2022/GGJ2022/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- C:/Users/pauld/Documents/GitHub/GGJ2022/GGJ2022/OVRAssetBundles/OVRMasterBundle/asset_prefab1

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1769058918
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7b27ab127900aceb92608a47216a867
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4a124a79f3cd96c32e82437ed953faa0
+HashAppended: 0
+ClassTypes:
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RPG_FPS_game_assets_industrial/Map_v1Settings.lighting
+Dependencies: []

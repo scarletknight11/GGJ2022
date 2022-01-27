@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 388923666
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd2965b96f2abdfb4213a9b9e5da4fa7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e6e651bdddca608c77d51fff2e12d033
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RPG_FPS_game_assets_industrial/Map_v1/ReflectionProbe-0.exr
+- Assets/RPG_FPS_game_assets_industrial/Map_v1/Lightmap-0_comp_light.exr
+Dependencies: []

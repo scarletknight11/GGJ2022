@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 138178206
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1b8766cc8411fb6e23abe77b03d9654
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RPG_FPS_game_assets_industrial/Particles/Dust/Dust_v1/Source/Dust_v1.png
+- Assets/RPG_FPS_game_assets_industrial/Textures/Transparent/Lattice/Lattice_v1/Lattice_v1.png
+Dependencies: []

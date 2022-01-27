@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 94508916
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11b68c7a51e76da348d423c2cf5b7f77
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7adc7e9aa3c49e7a9685ccb10d29a78c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_middle.prefab
+- Assets/RPG_FPS_game_assets_industrial/Other_props/Palets/Palet_v1/Palet_v1_set.prefab
+- Assets/RPG_FPS_game_assets_industrial/Other_props/Generators/Generator_v1/Generator_v1.prefab
+- Assets/RPG_FPS_game_assets_industrial/Other_props/Electric_box/Electric_box_v3/Electric_box_v3.prefab
+- Assets/RPG_FPS_game_assets_industrial/Roads/Floor_elevation_sets/UNIFloor_elevation_set_v1/UNIConcrete_wall_v1_S_R_2.prefab
+- Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_tile_2.prefab
+- Assets/RPG_FPS_game_assets_industrial/Oil_tanks/Oil_tank_v1/Oil_tank_v1.prefab
+- Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/Concrete_fence_v1/Concrete_fence_v1_s2.prefab
+- Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v3/Hangar_v3.prefab
+- Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v2/Hangar_v2.prefab
+- Assets/RPG_FPS_game_assets_industrial/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Pipes_set_v1_vent_2.prefab
+- Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/Concrete_fence_v2/Concrete_fence_v2_S_half.prefab
+- Assets/RPG_FPS_game_assets_industrial/Boxes/Wooden_box_v1/Wooden_box_v1_LD1.prefab
+- Assets/RPG_FPS_game_assets_industrial/Barrels/Barrel_v3/Barrel_v3_single.prefab
+- Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/Concrete_fence_v1/Concrete_fence_v1_wall_set_v2.prefab
+- Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v4/Hangar_v4.prefab
+- Assets/ExampleAssets/Prefabs/XRControllerLeft.prefab
+- Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_bend_2.prefab
+- Assets/Oculus/VR/Prefabs/OVRCameraRig.prefab
+- Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/Concrete_fence_v1/Concrete_fence_v1_wall_set_v1.prefab
+- Assets/RPG_FPS_game_assets_industrial/Fences/Concrete_fences/Concrete_fence_v1/Concrete_fence_v1_s1.prefab
+- Assets/RPG_FPS_game_assets_industrial/Boxes/Wooden_box_v1/Wooden_box_v1_LD1square.prefab
+- Assets/RPG_FPS_game_assets_industrial/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Pipes_set_v1_V_set_v2.prefab
+- Assets/RPG_FPS_game_assets_industrial/Roads/Road_sets/Road_set_v1/Road_set_v1_s_floor.prefab
+- Assets/RPG_FPS_game_assets_industrial/Buildings/Industrial/Hangars/Hangar_v1/Hangar_v1_full.prefab
+- Assets/RPG_FPS_game_assets_industrial/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Pipes_set_v1_tile_d2.prefab
+- Assets/RPG_FPS_game_assets_industrial/Other_props/Pipes/Pipe_sets/Pipes_set_v1/Pipes_set_v1_H_set_v1.prefab
+- Assets/RPG_FPS_game_assets_industrial/Fences/Road_blocks/Road_block_v1/Road_block_v1.prefab
+Dependencies:
+- C:/Users/pauld/Documents/GitHub/GGJ2022/GGJ2022/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/pauld/Documents/GitHub/GGJ2022/GGJ2022/OVRAssetBundles/OVRMasterBundle/asset_mat0
